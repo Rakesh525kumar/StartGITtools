@@ -13,7 +13,6 @@ public class ClassA {
 		
 		ClassA a  = new ClassA();
 		a.meth1();
-		
 		a.meth1();
 	}
 }
